@@ -38,3 +38,6 @@ class Solution:
             ix += 1
         
         return nums
+
+# Time Complexity: O(N)
+# Space Complexity: O(N)
