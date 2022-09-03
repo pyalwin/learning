@@ -45,3 +45,6 @@ class Solution:
                 res.append(str(i))
             i += 1
         return res
+
+#Time Complexity: O(N)
+#Space Complexity: O(N)
