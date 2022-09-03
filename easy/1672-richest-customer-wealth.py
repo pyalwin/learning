@@ -61,3 +61,6 @@ class Solution:
             max_wealth = self.max(max_wealth, self.sum(account))
         
         return max_wealth
+
+# Time Complexity : O(N)
+# Space Complexity: O(1)
